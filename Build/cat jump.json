@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "cat jump",
+"productVersion": "0.1",
+"dataUrl": "cat jump.data.unityweb",
+"wasmCodeUrl": "cat jump.wasm.code.unityweb",
+"wasmFrameworkUrl": "cat jump.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.22f1"
+}
